@@ -1,0 +1,1 @@
+<h1>This is the ADVERTISEMENT_EDIT page</h1>

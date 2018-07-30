@@ -1,0 +1,1 @@
+<h1>This is the CATEGORY_EDIT page</h1>
